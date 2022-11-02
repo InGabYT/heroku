@@ -1,7 +1,7 @@
 {
 	"ip":"InGab_YT.aternos.me",
 	"port": 38781,
-	"name": "afkbot1",
+	"name": "NE_PAS_TUER",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345",
